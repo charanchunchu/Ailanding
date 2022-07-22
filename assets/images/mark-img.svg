@@ -1,0 +1,14 @@
+<svg id="Group_42016" data-name="Group 42016" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="7.745" height="13.23" viewBox="0 0 7.745 13.23">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#002893"/>
+      <stop offset="1" stop-color="#000e2b"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21725" data-name="Rectangle 21725" width="7.745" height="13.23" transform="translate(0 0)" fill="url(#radial-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_40764" data-name="Group 40764" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Path_60909" data-name="Path 60909" d="M7.745,5.485,2.26,0,5.087,5.485,0,13.23Z" transform="translate(0 0)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
